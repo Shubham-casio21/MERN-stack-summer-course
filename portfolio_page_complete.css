@@ -59,7 +59,6 @@ a {
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 19px;
     letter-spacing: 0.02em;
     color: #343A40;
     margin-right: 20px;
@@ -78,7 +77,7 @@ a {
     width: 35%;
     height: 55%;
     background: #FFFFFF;
-    margin: 40px;
+    margin: 30px;
     padding: 10px;
 }
 
@@ -116,8 +115,7 @@ a {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    font-size: 22px;
-    line-height: 33px;
+    font-size: 20px;
     letter-spacing: 0.02em;
     color: #565655;
 }
@@ -127,7 +125,7 @@ a {
     flex-direction: column;
     width: 100%;
     height: 100%;
-    margin: 40px;
+    margin: 30px;
 }
 
 .container {
@@ -139,9 +137,8 @@ a {
 
 .profile-div-heading {
     font-family: Poppins;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 600;
-    line-height: 33px;
     letter-spacing: 0.02em;
     text-align: left;
 }
@@ -152,7 +149,6 @@ a {
     font-size: 1.2rem;
     text-align: justify;
     font-weight: 400;
-    line-height: 30px;
     letter-spacing: 0.02em;
     text-align: justify;
     color: black;
@@ -172,7 +168,6 @@ a {
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
-    line-height: 30px;
     text-align: left;
     color: #6B6C6D;
 }
